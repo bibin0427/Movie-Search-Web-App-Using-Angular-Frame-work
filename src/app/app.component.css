@@ -1,0 +1,44 @@
+
+.navbar .navbar-brand{
+    color: #fab205;
+    font-weight: bold;
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+}
+.navbar .navbar-brand:hover{
+    color: #fa0505;
+    font-size: 25px;
+}
+.navbar-nav .nav-item .nav-link{
+    color: #fab205;
+    font-size: 22px;
+    font-family: 'Bruno Ace SC', cursive;
+
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: #fa0505;
+    font-size: 23px;
+
+}
+p{
+    color: #0f0f0f;
+}
+.navbar-brand img{
+    width: 35px;
+}
+footer p{
+    color: #928989;
+}
+footer a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 0px 5px;
+    align-items: center;
+}
+footer a:hover{
+    color: #fa0505;
+    font-size: 18px;
+}
+
